@@ -12,3 +12,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+<div display="inline">
+    <h2> Estudante da Fatec Baixada Santista - Rubens Lara</h2>
+    <img src="https://www.infoescola.com/wp-content/uploads/2017/02/Fatec-200x112.jpg" width = "70px" height = "35px">
+</div>
