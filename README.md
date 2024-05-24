@@ -4,3 +4,4 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lucke0302)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucke0302&layout=pie)](https://github.com/Lucke0302)
+![Lucke0302's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucke0302&show_icons=true&theme=radical)
